@@ -1,0 +1,38 @@
+.hero{
+    padding: 100px;
+    box-sizing: content-box;
+}
+
+.css-hero-container{
+    width: 50%;
+    margin: 0 auto;
+}
+
+.welcome{
+    font-size: 4rem;
+    font-weight: bolder;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+h1{
+    font-size: 6rem;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 120px;
+    gap: 2rem;
+}
+
+.btn > button{
+    height: 40px;
+    width: 100px;
+    border-radius: 7px;
+    border: none;
+    outline: none;
+}
